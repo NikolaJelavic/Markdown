@@ -21,6 +21,6 @@ This is ~~Strikethrough~~
 sudo apt update
 ```
 
-![online image] (hhttps://miro.medium.com/max/1400/1*WaaXnUvhvrswhBJSw4YTuQ.png)
+![online image](https://miro.medium.com/max/1400/1*WaaXnUvhvrswhBJSw4YTuQ.png)
 
-![my capture] (.images/github.png)
+![my capture](./images/github.png)
